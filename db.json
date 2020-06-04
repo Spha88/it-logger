@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "Change hard drive on workstation 005",
+            "attention": false,
+            "date": "03-02-2019",
+            "tech": "Sam Smith"
+        },
+        {
+            "id": 2,
+            "message": "Connect workstation 4 to the internet",
+            "attention": true,
+            "date": "05-02-2019",
+            "tech": "Sam Smith"
+        },
+        {
+            "id": 3,
+            "message": "Connect workstation 4 to the internet",
+            "attention": true,
+            "date": "05-02-2019",
+            "tech": "Sam Smith"
+        }
+    ],
+    "techs": [
+        {
+            "id": 1,
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "id": 2,
+            "firstName": "Spha",
+            "lastName": "Mehlomakulu"
+        },
+        {
+            "id": 1,
+            "firstName": "Amani",
+            "lastName": "Williams"
+        }
+    ]
+}
