@@ -1,42 +1,49 @@
 {
-    "logs": [
-        {
-            "id": 1,
-            "message": "Change hard drive on workstation 005",
-            "attention": false,
-            "date": "03-02-2019",
-            "tech": "Sam Smith"
-        },
-        {
-            "id": 2,
-            "message": "Connect workstation 4 to the internet",
-            "attention": true,
-            "date": "05-02-2019",
-            "tech": "Sam Smith"
-        },
-        {
-            "id": 3,
-            "message": "Connect workstation 4 to the internet",
-            "attention": true,
-            "date": "05-02-2019",
-            "tech": "Sam Smith"
-        }
-    ],
-    "techs": [
-        {
-            "id": 1,
-            "firstName": "John",
-            "lastName": "Doe"
-        },
-        {
-            "id": 2,
-            "firstName": "Spha",
-            "lastName": "Mehlomakulu"
-        },
-        {
-            "id": 3,
-            "firstName": "Amani",
-            "lastName": "Williams"
-        }
-    ]
+  "logs": [
+    {
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-08T07:01:40.640Z",
+      "id": 1
+    },
+    {
+      "message": "Changed the user interface on the email client",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-06-08T07:02:11.720Z",
+      "id": 2
+    },
+    {
+      "message": "Emma needs work to be done on the website",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-08T07:02:30.912Z",
+      "id": 3
+    },
+    {
+      "message": "Fixed the data projector in the conference room",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-08T07:02:56.336Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Spha",
+      "lastName": "Mehlomakulu"
+    },
+    {
+      "id": 3,
+      "firstName": "Amani",
+      "lastName": "Williams"
+    }
+  ]
 }
