@@ -15,18 +15,11 @@
       "id": 2
     },
     {
-      "message": "Emma needs work to be done on the website",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-08T07:02:30.912Z",
+      "message": "Add a new SSD on the new workstation",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-08T08:24:21.149Z",
       "id": 3
-    },
-    {
-      "message": "Fixed the data projector in the conference room",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-08T07:02:56.336Z",
-      "id": 4
     }
   ],
   "techs": [
